@@ -1,0 +1,9 @@
+*.bin
+*.eep
+*.elf
+*.lss
+Joystick.hex
+*.map
+*.sym
+obj/
+.vscode/
